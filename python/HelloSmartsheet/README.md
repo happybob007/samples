@@ -81,3 +81,8 @@ Create another request object. You'll need to add another request property speci
 
     	
 Lastly, parse the response and print a statement saying that the sheet was shared successfully. Then press any key to quit. 
+
+Congratulations, you've completed the Python walkthrough. Please feel free to contact us at api@smartsheet.com with any questions or suggestions.
+
+The Smartsheet Platform team.
+
