@@ -1,6 +1,0 @@
-C:\Users\allisonh\Documents\Visual Studio 2012\Projects\HelloSmartsheet\HelloSmartsheet\bin\Debug\HelloSmartsheet.exe.config
-C:\Users\allisonh\Documents\Visual Studio 2012\Projects\HelloSmartsheet\HelloSmartsheet\bin\Debug\HelloSmartsheet.exe
-C:\Users\allisonh\Documents\Visual Studio 2012\Projects\HelloSmartsheet\HelloSmartsheet\bin\Debug\HelloSmartsheet.pdb
-C:\Users\allisonh\Documents\Visual Studio 2012\Projects\HelloSmartsheet\HelloSmartsheet\obj\Debug\HelloSmartsheet.csprojResolveAssemblyReference.cache
-C:\Users\allisonh\Documents\Visual Studio 2012\Projects\HelloSmartsheet\HelloSmartsheet\obj\Debug\HelloSmartsheet.exe
-C:\Users\allisonh\Documents\Visual Studio 2012\Projects\HelloSmartsheet\HelloSmartsheet\obj\Debug\HelloSmartsheet.pdb
