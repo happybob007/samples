@@ -9,7 +9,7 @@ Import  built in libraries:
 
 	import urllib2
 
-This is the default HTTP client for Python. It was chosen for it's ubiquity across platforms. When building a larger app in Python that makes HTTP calls, I recommend using a library that will do caching and compression. <a href = "https://code.google.com/p/httplib2/"> Httplib2 </a> is a great option for this.
+This is the default HTTP client for Python. It was chosen for its ubiquity across platforms. When building a larger app in Python that makes HTTP calls, I recommend using a library that will do caching and compression. <a href = "https://code.google.com/p/httplib2/"> Httplib2 </a> is a great option for this.
 
 	import json
 
