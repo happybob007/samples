@@ -1,4 +1,4 @@
-Hellosmartsheet2: Betty's Bake Sale (Java)
+Sheet Structure: Betty's Bake Sale (Java)
 ===
 See our Hellosmartsheet interactive script for a basic introduction to the Smartsheet API.  The second in the series, this non-interactive script walks you through the more advanced Smartsheet API calls and capabilities by creating a sheet from scratch, populating it with data, and finally changing the sheet structure by moving around rows and columns.
 
