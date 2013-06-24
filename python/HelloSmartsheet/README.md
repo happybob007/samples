@@ -9,7 +9,7 @@ Import  built in libraries:
 
 	import urllib2
 
-This is the default HTTP client for Python. It was chosen for it's ubiquity across platforms. When building a larger app in Python that makes HTTP calls, I recommend using a library that will do caching and compression. <a href = "https://code.google.com/p/httplib2/"> Httplib2 </a> is a great option for this.
+This is the default HTTP client for Python. It was chosen for its ubiquity across platforms. When building a larger app in Python that makes HTTP calls, I recommend using a library that will do caching and compression. <a href = "https://code.google.com/p/httplib2/"> Httplib2 </a> is a great option for this.
 
 	import json
 
@@ -81,3 +81,8 @@ Create another request object. You'll need to add another request property speci
 
     	
 Lastly, parse the response and print a statement saying that the sheet was shared successfully. Then press any key to quit. 
+
+Congratulations, you've completed the Python walkthrough. Please feel free to contact us at api@smartsheet.com with any questions or suggestions.
+
+The Smartsheet Platform team.
+

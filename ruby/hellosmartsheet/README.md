@@ -1,6 +1,6 @@
 Hello Smartsheet (Ruby)
 ===
-This is a simple introduction to the Smartsheet API for Ruby developers.
+This is a simple introduction to the Smartsheet API for Ruby developers.  Hello Smartsheet is an interactive script that walks you through a basic Smartsheet API integration by establishing a connection, fetching a list of sheets, and sharing one of the sheets to a collaborator.
 
 Smartsheet API
 ---
