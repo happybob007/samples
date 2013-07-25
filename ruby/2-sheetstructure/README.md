@@ -27,7 +27,7 @@ You don't need to load the entire Active Support gem.  If you want to keep your 
 
 Usage
 ---
-Generate a Smartsheet API access token and inserted it into the script:
+Generate a Smartsheet API access token and insert it into the script:
 
 	ss_token = 'INSERT_YOUR_TOKEN_HERE'
 
