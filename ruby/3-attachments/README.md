@@ -1,4 +1,4 @@
-File Upload (Ruby)
+File Operations (Ruby)
 ===
 See our <b>Hellosmartsheet</b> and <b>SheetStructure</b> scripts for a hands-on introduction to the Smartsheet API.  The third in the series, this non-interactive script walks you through the more advanced Smartsheet API calls and capabilities by attaching a file and a URL to a row, downloading a file attachment, and finally deleting a file attachment.
 
@@ -129,6 +129,6 @@ And make sure to set <code>use_ssl</code> to <code>true</code>:
 	req.use_ssl = true
 
 	
-Congratulations!  You just completed your second Smartsheet API Ruby walkthrough.  We encourage you to play with the script, change it around, and enhance it to get better acquainted with the Smartsheet API.  Ping us at api@smartsheet.com with any questions or suggestions.
+Congratulations!  You just completed your third Smartsheet API Ruby walkthrough.  We encourage you to play with the script, change it around, and enhance it to get better acquainted with the Smartsheet API.  Ping us at api@smartsheet.com with any questions or suggestions.
 
 The Smartsheet Platform team. 
