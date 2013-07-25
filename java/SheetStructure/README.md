@@ -17,7 +17,7 @@ To run, cd to the folder where HelloSmartsheet.java is:
 	
 Usage
 ---
-Generate a Smartsheet API access token and inserted it into the script:
+Generate a Smartsheet API access token and insert it into the script:
 
 	String accessToken = "";//Insert your access token here.
 
