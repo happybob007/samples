@@ -20,9 +20,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 
 public class AttachmentExample {
-//	private static final String BASE_URL = "https://api.smartsheet.com/1.1";
-	private static final String BASE_URL = "http://kyans.smartsheet.com:8080/dev2/rest/1.1";
-
+	private static final String BASE_URL = "https://api.smartsheet.com/1.1";
+	
 	private static final String ID = "{id}";
 
 	private static final String GET_SHEETS_URL = BASE_URL + "/sheets";
@@ -38,7 +37,7 @@ public class AttachmentExample {
 		//Feel free to use which ever library you prefer.
 		ObjectMapper mapper = new ObjectMapper();
 		mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false); 
-		String accessToken = "1vadd6rnnjpjs8kls9vgwrdfl";//Insert your access token here.
+		String accessToken = "";//Insert your access token here.
 		
 		try {
 			
